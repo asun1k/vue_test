@@ -1,12 +1,14 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img  width="350"  alt="Swed logo" src="https://i2.wp.com/insurance-edge.net/wp-content/uploads/2019/10/swedbank-partner-with-munich-re.jpg?fit=693%2C385&ssl=1&w=640">
+    <HelloWorld msg="Welcome to SwedBank"/>
+
   </div>
+
 </template>
 
 <script>
-// @ is an alias to /src
+
 import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
